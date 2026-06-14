@@ -2,6 +2,10 @@
 
 A React + Vite semester project prototype for a secure online election platform. The app demonstrates the public election landing page, role-based dashboards, creator approval, voter registration, voter locking, secret ID voting, live results, audit logs, and a Supabase-ready database design.
 
+## Live Deployment
+
+🚀 **Live Link:** [https://secure-election-system.vercel.app](https://secure-election-system.vercel.app)
+
 ## Tech Stack
 
 - React 19 with Vite
